@@ -1,6 +1,8 @@
 <h1 align="center">
-  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm <span style="color:#4CAF50">Aymen</span> 👨‍💻
+  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">,
+  <img src="./assets/name-badge.svg" alt="Aymen" />
 </h1>
+
 
 ###
 
