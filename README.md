@@ -15,10 +15,7 @@
 ✨ Creating bugs since 2023<br>
 📚 I'm currently learning about <b>web development trends & the latest technologies</b><br>
 🎯 Goals: Build scalable apps & contribute to Open Source<br>
-🎲 Fun fact: I debug faster with coffee (especially <b>Frappuccino</b> ☕) <br><br>
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee" />
-</a>
+🎲 Fun fact: I debug faster with coffee (especially <b>Frappuccino</b> ☕) 
 </p>
 
 ---
