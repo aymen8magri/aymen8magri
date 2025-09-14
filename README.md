@@ -94,7 +94,7 @@
 <h2 align="left">🌐 Connect with me</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/aymen-magri-94453329b/" target="_blank">
+  <a href="https://www.linkedin.com/in/aymen-magri-94453329b/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="mailto:aymen00magri@gmail.com">
