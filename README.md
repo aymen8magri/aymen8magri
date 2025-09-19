@@ -3,7 +3,7 @@
 </h1>
      
 ###
- 
+  
 <p align="center">
 🚀 Passionné par le <b>développement web</b> et toujours en quête de nouveaux défis.<br>
 💻 Actuellement je travaille avec <b>Angular, React, Node.js</b> et bien plus encore !
