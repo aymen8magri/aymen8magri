@@ -73,10 +73,39 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
+  <!-- 🔥 Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=aymen8magri&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" 
+    height="150" 
+    alt="streak graph" 
+  />
+
+  <!-- 🏆 Trophies -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=aymen8magri&theme=dracula&row=1&column=6&margin-w=8&margin-h=8" 
+    height="150" 
+    alt="trophy graph" 
+  />
+
+</div>
+<div align="center">
+
+  <!-- 📈 Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=aymen8magri&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" 
+    height="150" 
+    alt="stats graph" 
+  />
+
+  <!-- 🌐 Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=aymen8magri&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
+    height="150" 
+    alt="languages graph" 
+  />
+
+</div>
 <!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aymen8magri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
