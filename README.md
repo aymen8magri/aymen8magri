@@ -81,6 +81,18 @@
     alt="streak graph" 
   />
 
+  <img 
+  src="https://streak-stats.demolab.com?user=aymen8magri&theme=dracula"
+  height="150"
+/>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=aymen8magri&theme=dracula"
+  height="150"
+/>
+
+
+
   <!-- 🏆 Trophies -->
   <img 
     src="https://github-profile-trophy.vercel.app/?username=aymen8magri&theme=dracula&row=1&column=6&margin-w=8&margin-h=8" 
